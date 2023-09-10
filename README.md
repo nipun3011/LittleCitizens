@@ -1,7 +1,7 @@
-# LittleCitizens
+# Mini Juris
 ## Why Choose Our App?
 ### Engaging learning experience: 
-'Little Citizens' offers interactive, adaptive, and engaging learning
+'Mini Juris' offers interactive, adaptive, and engaging learning
 experiences. It presents real-life scenarios related to child rights, ensuring that learning is
 relatable and practical.
 ### Inclusivity and accessibility: 
@@ -9,7 +9,7 @@ The platform is designed to be inclusive and accessible to all
 children, incorporating multimedia elements, language translation, and narration features to
 cater to diverse backgrounds and abilities.
 ### Community and collaboration: 
-'Little Citizens' fosters community by allowing
+'Mini Juris' fosters community by allowing
 children to connect, collaborate, and share experiences. They can also contribute content,
 enhancing a sense of ownership.
 ### Expert support: 
@@ -24,7 +24,7 @@ children to make impactful decisions within the platform.
 Avatar Personalization: Children can personalize avatars, outfits, and accessories, reflecting
 their achievements and progress.
 ### Educational resources: 
-'Little Citizens' offers a resource library with legal documents, case
+'Mini Juris' offers a resource library with legal documents, case
 studies, and reference materials for deeper exploration and research.
 ### Real-time support:
 A chat feature provides real-time clarification on legal concepts and
@@ -33,7 +33,7 @@ answers to queries.
 The platform offers a clear learning path, guiding children from
 foundational concepts to advanced topics.
 ### Data privacy and security: 
-'Little Citizens' prioritizes data privacy and security to protect user
+'Mini Juris' prioritizes data privacy and security to protect user
 information.
 ### Legal ethics and values: 
 Beyond legal knowledge, the platform emphasizes legal ethics and
@@ -44,7 +44,7 @@ journey, facilitating collaboration and support.
 Learning can take place in the child's preferred language, eliminating
 language barriers.
 ### Continuous updates and improvement: 
-'Little Citizens' commits to staying current with legal
+'Mini Juris' commits to staying current with legal
 and educational needs, with user feedback driving continuous improvement.
 ### Themed challenges and competitions: 
 Themed challenges and competitions encourage
@@ -56,7 +56,7 @@ thinking and practical application of legal knowledge.
 The platform provides direct links to legal resources, including
 government websites and legal aid organizations, for additional information and support.
 ### Empowerment and active citizenship:
-'Little Citizens' empowers children not only with
+'Mini Juris' empowers children not only with
 knowledge but also with the confidence and skills to stand up for their rights and those of
 others. It promotes active citizenship and social responsibility.
 ### Offline access and age-adaptive content: 
